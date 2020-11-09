@@ -78,7 +78,3 @@ def get_test_data_loader():
 def get_predict_data_loader():
     dataset = mydataset(captcha_setting.PREDICT_DATASET_PATH_TEMP, transform=transform)
     return DataLoader(dataset, batch_size=1, shuffle=True)
-# dataiter = iter(get_train_data_loader())
-# images, lablels = dataiter.next()
-# print("hhhh")
-# print(lablels)

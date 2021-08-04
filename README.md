@@ -21,4 +21,4 @@ If you use this code for your research, please cite our papers.
 }
 ``` -->
 ## Acknowledgments
-For [CNN model training](https://github.com/dee1024/pytorch-captcha-recognition), Dee Qiu's code is used for reference. The [CNN Synthesizer](https://github.com/lepture/captcha) is used from an open-source CAPTCHA library. Based on that implementation, we made fine change in the code to satisfy our need for experiments. 
+For [CNN model training](https://github.com/dee1024/pytorch-captcha-recognition), Dee Qiu's code is used for reference. The [CNN Synthesizer](https://github.com/lepture/captcha) is used from an open-source CAPTCHA library. Based on that implementation, we change the code to satisfy our need for experiments. 

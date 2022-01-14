@@ -5,7 +5,7 @@ A GAN based framework for CAPTCHA breaking in the dark web. Especially for the C
 This code is implemented in Python and PyTorch. All of the required libraries could be installed by pip or conda. 
 ## Usage
 ### Data
-Due to the shortage of the storage space, data is not uploaded in this repository. Please contact zhangning@email.arizona.edu for the data copy. 
+Due to the shortage of the storage space, data is not uploaded in this repository. Please find the [Kaggle Page](https://www.kaggle.com/njznjz/captcha-collected-from-darknet-websites) for the data. 
 ### Training
 GAN model is trained and uploaded. An example of making dataset for training CNN model is under the folder [Example_and_Record](https://github.com/johnnyzn/DW-GAN/blob/main/Example_and_Record/notebook_example/case_synthetizer-4.ipynb)
 <!-- ## Citation
